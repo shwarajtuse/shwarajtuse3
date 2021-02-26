@@ -1,0 +1,24 @@
+---
+  title: "Business Analytics Projects"
+---
+---
+## Similarity based learning - Project 2 
+
+<script src="https://gist.github.com/shwarajtuse/c3242abae2ddf3b59bb8811444223549.js"></script>
+
+
+## Similarity based learning - Project 1
+
+<script src="https://gist.github.com/shwarajtuse/ab022d8b6c7693d2857734f02bc86488.js"></script>
+
+## Infornmation based learning
+
+<script src="https://gist.github.com/shwarajtuse/9bb4930a55edc332fd760b613e9ce151.js"></script>
+
+## Data visualization and Exploratory data analysis
+
+<script src="https://gist.github.com/shwarajtuse/ca8b9cb074b225be224c41ea8c00ab5a.js"></script>
+
+## Exploratory data analysis 
+
+<script src="https://gist.github.com/shwarajtuse/8656b44a13360ff93a2bd11dac5777bd.js"></script>

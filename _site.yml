@@ -1,0 +1,9 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Shwaraj Tuse"
+  left:
+  - text: "Buisiness Analytics"
+    href: index.html
+  - text: "About"
+    href: about.html

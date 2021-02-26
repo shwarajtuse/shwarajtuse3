@@ -1,0 +1,6 @@
+---
+  title: "About This Website"
+---
+  This website is made by Shwaraj Tuse for partial fulfillment of the requirements of the Master of Science degree at the
+University of New Brunswick, Fredericton, NB. The outlook and background of the selected
+projects and assignments are described. It also provides a list of the deliverables. The intended audience of this website is the graduate faculty of the Business Administration department.
