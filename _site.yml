@@ -1,9 +1,8 @@
 name: "personal-website"
 output_dir: "."
+theme: tactile
 navbar:
   title: "Shwaraj Tuse"
   left:
-  - text: "Buisiness Analytics"
+  - text: "Business Analytics"
     href: index.html
-  - text: "About"
-    href: about.html
